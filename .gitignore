@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Archives and migration backups
+*.tar.gz
+claude-backup-*/
+.claude_mover_tmp_*
+
+# macOS
+.DS_Store
