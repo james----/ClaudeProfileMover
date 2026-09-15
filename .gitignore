@@ -12,6 +12,10 @@ ENV/
 *.tar.gz
 claude-backup-*/
 .claude_mover_tmp_*
+transfer_chrome_auth.py
+inject_chrome_auth.py
+*_cookies.json
+claude-chrome-auth*.json
 
 # macOS
 .DS_Store
